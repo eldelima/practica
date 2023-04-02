@@ -1,1 +1,2 @@
-
+esto no sirve 
+estoy entendiendo git
